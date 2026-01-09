@@ -50,3 +50,5 @@ python snakegame.py
 This project is created for learning Python GUI programming, game logic, and keyboard event handling using Tkinter.
 
 📸 Screenshot
+
+<img width="1314" height="961" alt="Screenshot_20260109_055240" src="https://github.com/user-attachments/assets/e09486f9-7150-4be7-b7fc-971ded40d806" />
