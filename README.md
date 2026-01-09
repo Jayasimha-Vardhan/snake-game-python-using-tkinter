@@ -51,4 +51,7 @@ This project is created for learning Python GUI programming, game logic, and key
 
 📸 Screenshot
 
-<img width="500" height="500" alt="Screenshot_20260109_055240" src="https://github.com/user-attachments/assets/e09486f9-7150-4be7-b7fc-971ded40d806" />
+<img width="300" height="300" alt="Screenshot_20260109_055240" src="https://github.com/user-attachments/assets/e09486f9-7150-4be7-b7fc-971ded40d806" />
+
+<img width="300" height="300" alt="Screenshot_20260109_055319" src="https://github.com/user-attachments/assets/af54c936-b54a-4a1e-b9e8-16bfb8fd7c06" />
+
