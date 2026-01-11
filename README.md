@@ -42,7 +42,7 @@ The game runs in a window using a canvas and keyboard controls.
 
 1. Install Python  
 2. Download or clone this repository  
-3. Open terminal in project folder  
+3. Open terminal in project folder
 4. Run:
 python snakegame.py
 
